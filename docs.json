@@ -1,0 +1,51 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "invoicehub",
+  "colors": {
+    "primary": "#7C3AED",
+    "light": "#8B5CF6",
+    "dark": "#6D28D9"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "overview",
+          "getting-started"
+        ]
+      },
+      {
+        "group": "Features",
+        "pages": [
+          "upload-invoices",
+          "manage-invoices",
+          "team-management",
+          "reports-and-analytics",
+          "chat-and-collaboration"
+        ]
+      },
+      {
+        "group": "Reference",
+        "pages": [
+          "technical-overview",
+          "faq"
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Get Started",
+      "href": "/"
+    }
+  }
+}

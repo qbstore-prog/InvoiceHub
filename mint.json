@@ -3,7 +3,8 @@
   "name": "Expensar",
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/dark.svg",
+    "href": "/"
   },
   "favicon": "/favicon.svg",
   "colors": {

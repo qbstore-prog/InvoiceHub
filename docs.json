@@ -9,30 +9,65 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "groups": [
+    "languages": [
       {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "overview",
-          "getting-started"
+        "language": "en",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "index",
+              "overview",
+              "getting-started"
+            ]
+          },
+          {
+            "group": "Features",
+            "pages": [
+              "upload-invoices",
+              "manage-invoices",
+              "team-management",
+              "reports-and-analytics",
+              "chat-and-collaboration"
+            ]
+          },
+          {
+            "group": "Reference",
+            "pages": [
+              "technical-overview",
+              "faq"
+            ]
+          }
         ]
       },
       {
-        "group": "Features",
-        "pages": [
-          "upload-invoices",
-          "manage-invoices",
-          "team-management",
-          "reports-and-analytics",
-          "chat-and-collaboration"
-        ]
-      },
-      {
-        "group": "Reference",
-        "pages": [
-          "technical-overview",
-          "faq"
+        "language": "pt-BR",
+        "groups": [
+          {
+            "group": "Primeiros passos",
+            "pages": [
+              "pt-BR/index",
+              "pt-BR/overview",
+              "pt-BR/getting-started"
+            ]
+          },
+          {
+            "group": "Funcionalidades",
+            "pages": [
+              "pt-BR/upload-invoices",
+              "pt-BR/manage-invoices",
+              "pt-BR/team-management",
+              "pt-BR/reports-and-analytics",
+              "pt-BR/chat-and-collaboration"
+            ]
+          },
+          {
+            "group": "Referência",
+            "pages": [
+              "pt-BR/technical-overview",
+              "pt-BR/faq"
+            ]
+          }
         ]
       }
     ]

@@ -7,7 +7,10 @@
     "light": "#8B5CF6",
     "dark": "#6D28D9"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/favicon.svg",
+    "dark": "/favicon.svg"
+  },
   "navigation": {
     "languages": [
       {
@@ -74,8 +77,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/favicon.svg",
+    "dark": "/favicon.svg"
   },
   "navbar": {
     "primary": {

@@ -54,6 +54,7 @@
           {
             "group": "Funcionalidades",
             "pages": [
+              "pt-PT/upload-invoices",
               "pt-BR/upload-invoices",
               "pt-BR/manage-invoices",
               "pt-BR/team-management",

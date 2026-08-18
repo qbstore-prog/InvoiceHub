@@ -49,9 +49,9 @@
           {
             "group": "Primeiros passos",
             "pages": [
-              "pt-BR/index",
-              "pt-BR/overview",
-              "pt-BR/getting-started"
+              "pt-PT/index",
+              "pt-PT/overview",
+              "pt-PT/getting-started"
             ]
           },
           {
@@ -59,17 +59,17 @@
             "pages": [
               "pt-PT/upload-invoices",
               "pt-BR/upload-invoices",
-              "pt-BR/manage-invoices",
-              "pt-BR/team-management",
-              "pt-BR/reports-and-analytics",
-              "pt-BR/chat-and-collaboration"
+              "pt-PT/manage-invoices",
+              "pt-PT/team-management",
+              "pt-PT/reports-and-analytics",
+              "pt-PT/chat-and-collaboration"
             ]
           },
           {
             "group": "Referência",
             "pages": [
-              "pt-BR/technical-overview",
-              "pt-BR/faq"
+              "pt-PT/technical-overview",
+              "pt-PT/faq"
             ]
           }
         ]
